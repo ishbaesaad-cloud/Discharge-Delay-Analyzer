@@ -32,4 +32,4 @@ The data preprocessing steps and exploratory analysis for this dashboard were co
 
 ## 📂 How to Open This Project
 1. Download the `hospital_discharge_data.csv` raw dataset from this repository to view the records.
-2. If you would like to run the model locally, download the `.pbix` file (once uploaded) and open it in **Power BI Desktop**[cite: 1].
+2. If you would like to run the model locally, download the `.pbix` file (once uploaded) and open it in **Power BI Desktop**.
