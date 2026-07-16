@@ -91,11 +91,12 @@ Discharge-Delay-Analyzer/
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/ishbaesaad-cloud/Discharge-Delay-Analyzer.git
+   git clone (https://github.com/ishbaesaad-cloud/Discharge-Delay-Analyzer)
    ```
 2. **Explore the data:** Open `hospital_discharge_data.csv` directly, or run the notebook:
    ```bash
    pip install -r requirements.txt
    ```
    then open `Display_Discharge_DashBoard.ipynb` in Jupyter or Google Colab.
-3. **View the dashboard:** Open `discharge_delay_dashboard.pbix` in [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494) (free), or use the live link above.
+3. **View the dashboard:** Open `discharge_delay_dashboard.pbix` in [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=5849<img width="1357" height="551" alt="Power BI dashboard ss" src="https://github.com/user-attachments/assets/83f589ca-71a7-46c0-8e40-4d433318f1fb" />
+
