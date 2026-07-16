@@ -16,7 +16,7 @@ Hospital discharge delays extend length of stay (LOS), reduce bed availability, 
 
 ## 📊 Dashboard Preview
 
-![Discharge Delay Dashboard](power_bi_dashboard_screenshot.jpg)
+<img width="1357" height="551" alt="Power BI dashboard ss" src="https://github.com/user-attachments/assets/066dd660-c7f7-47dc-8943-45d2118408ac" />
 
 **➡️ [Download the Power BI file](discharge_delay_dashboard.pbix)** *(requires Power BI Desktop — free download from Microsoft)*
 
