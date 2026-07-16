@@ -1,10 +1,10 @@
- Hospital Discharge Delay Analyzer
+# Hospital Discharge Delay Analyzer
 
 **Identifying and quantifying operational bottlenecks in patient discharge to improve hospital bed turnover and patient flow.**
 
 ---
 
-📌 Project Summary
+## 📌 Project Summary
 
 Hospital discharge delays extend length of stay (LOS), reduce bed availability, and drive up operating costs. This project analyzes a 500-patient hospital discharge dataset (Jan–Jun 2024) to identify **where** delays happen, **how long** they last, and **which operational phase** is most responsible — turning raw admission/discharge logs into an actionable Power BI dashboard for hospital operations teams.
 
@@ -16,8 +16,7 @@ Hospital discharge delays extend length of stay (LOS), reduce bed availability, 
 
 ## 📊 Dashboard Preview
 
-![Discharge Delay Dashboard](powe<img width="1357" height="551" alt="Power BI dashboard ss" src="https://github.com/user-attachments/assets/5c22da8b-f1c9-4c05-84f5-37592264a3ac" />
-r_bi_dashboard_screenshot.jpg)
+![Discharge Delay Dashboard](power_bi_dashboard_screenshot.jpg)
 
 **➡️ [Download the Power BI file](discharge_delay_dashboard.pbix)** *(requires Power BI Desktop — free download from Microsoft)*
 
@@ -92,12 +91,14 @@ Discharge-Delay-Analyzer/
 
 1. **Clone the repo:**
    ```bash
-   git clone (https://github.com/ishbaesaad-cloud/Discharge-Delay-Analyzer)
+   git clone https://github.com/ishbaesaad-cloud/Discharge-Delay-Analyzer.git
    ```
 2. **Explore the data:** Open `hospital_discharge_data.csv` directly, or run the notebook:
    ```bash
    pip install -r requirements.txt
    ```
    then open `Display_Discharge_DashBoard.ipynb` in Jupyter or Google Colab.
+3. **View the dashboard:** Open `discharge_delay_dashboard.pbix` in [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494) (free).
 
+---
 
